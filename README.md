@@ -19,14 +19,11 @@ A virtual pet iOS app where users care for a pet cat by feeding it, helping it s
 - MVVM
 - Xcode
 
-## Screenshots 
-
-### Home
-![Home](Home.png)
-### Feed
-![Feed](Feed.png)
-### Fish Game
-![Fish Game](FishGame.png)
+<p align="center">
+  <img src="Home.png" width="250">
+  <img src="Feed.png" width="250">
+  <img src="FishGame.png" width="250">
+</p>
 
 ## Future Improvements
 - Shop system
