@@ -21,11 +21,15 @@ A virtual pet iOS app where users care for a pet cat by feeding it, helping it s
 
 ## Screenshots
 <p>
-  <img src="Home.png" width="150"style="margin-right: 60px;">
+  <img src="Splash.png" width="150"style="margin-right: 60px;">
+\
+  <img src="Insert Name.png" width="150"style="margin-right: 60px;">
+\
+   <img src="Home.png" width="150"style="margin-right: 60px;">
+\
+   <img src="FishGame.png" width="150"style="margin-right: 60px;">
 \
   <img src="Feed.png" width="150"style="margin-right: 60px;">
-\
-  <img src="FishGame.png" width="150"style="margin-right: 60px;">
 
 </p>
 
